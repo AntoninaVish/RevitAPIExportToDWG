@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIExportToDWG.dll"</Assembly>
+	
+		<AddInId>B6F2F6D9-1334-4CAA-85E9-3863B0D0C51E</AddInId>
+		<FullClassName>RevitAPIExportToDWG.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPIExportToDWG</Text>
+	</AddIn>
+</RevitAddIns>
